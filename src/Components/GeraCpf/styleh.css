@@ -1,0 +1,43 @@
+div{
+    background-color: #fff;
+    padding: 0%;
+    height: 100vh;
+}
+h3{
+    display: grid;
+    justify-content: center;
+}
+.class-card{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.class-inputs{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#style-card{
+    background-color: #c9c9c9;
+    width: 18rem;
+    height: 16rem;
+}
+
+#style-input1{
+    max-width: 12rem;
+    max-height: 1.5rem;
+}
+
+#style-card-bemvindo{
+    width: 20rem;
+    height: 20rem;
+    font-size: 18px;
+
+}
+
+p{
+    font-size: 18px;
+}

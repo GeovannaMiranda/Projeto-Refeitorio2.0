@@ -1,0 +1,57 @@
+
+
+.Corpo-teste-table{
+    background: #ffff;
+    height: 100vh;
+    padding: 10rem;
+}
+.table-teste{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+th{
+    width: 10rem;
+    height: 3rem;
+    color: #00652E;
+}
+
+td{
+   text-align: center;
+}
+
+
+
+#style-input{
+    border-color: #00652E;
+    width: 13rem;
+    height: 2rem;
+    border-radius: 5px;
+}
+#style-input:hover{
+    outline: none;
+}
+
+
+#style-select{
+    border-color: #00652E;
+    width: 13rem;
+    height: 2rem;
+    border-radius: 5px;
+}
+#style-select:hover{
+    outline: none;
+}
+
+#style-input-number{
+    border-color: #00652E;
+    width: 13rem;
+    height: 2rem;
+    border-radius: 5px;
+}
+
+#style-input-number:hover{
+    outline: none;
+}
